@@ -1,0 +1,31 @@
+(lp0
+I3
+aI3
+aI6
+aI3
+a(lp1
+S'INSULT'
+p2
+aS'IMPROV'
+p3
+aS'HAPPY'
+p4
+aaS'TO BE CONTINUED'
+p5
+a(lp6
+S'KNIFE'
+p7
+aS'FLASHLIGHT'
+p8
+aa.ing my special RED move to save your game! That\xe2\x80\x99s VERY IMPORTANT!\n'
+p5
+a(lp6
+S'KNIFE'
+p7
+aS'FLASHLIGHT'
+p8
+aa.NIFE'
+p6
+aS'FLASHLIGHT'
+p7
+aa.

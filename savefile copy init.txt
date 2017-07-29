@@ -1,0 +1,13 @@
+(lp0
+I1
+aI1
+aI4
+aI0
+a(lp1
+S'INSULT'
+p2
+aS'IMPROV'
+p3
+aaS'REVIEW'
+p4
+a.
